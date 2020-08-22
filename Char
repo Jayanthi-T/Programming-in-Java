@@ -7,3 +7,7 @@ System.out.print("c1 and c2: ");
 System.out.print(c1+" "+c2);
 }
 }
+
+Output:
+
+c1 and c2: X y
