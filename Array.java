@@ -1,5 +1,5 @@
 public class Array{
-public static void main(String[] arg=[]){
+public static void main(String[] arg=[]){ 
 int month_days[];
 month_days=new int[4];
 month_days[0]=31;   
