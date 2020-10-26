@@ -4,7 +4,7 @@ public class Queue_Array
 {
     static int front =-1,rear=-1,queue[],size;
     static Scanner sc=new Scanner(System.in);
-
+ 
     static
     {
         System.out.println("Enter Size of Queue: ");
