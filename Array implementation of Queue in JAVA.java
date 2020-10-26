@@ -11,7 +11,7 @@ public class Queue_Array
         size=sc.nextInt();
         queue=new int[size];
     }
-    public static void main(String[] args)
+    public static void main(String[] args) 
     {
         while(true)
         {
