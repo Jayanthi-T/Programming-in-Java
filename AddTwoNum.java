@@ -6,6 +6,6 @@ System.out.println("Sum is: "+sum);
 }
 }
 
-
+ 
 Output:
 Sum is: 15
