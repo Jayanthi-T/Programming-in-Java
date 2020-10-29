@@ -4,7 +4,7 @@ Topic    :Developing a Basic Banking Application in Java
 */
 import  java.util.Scanner;//Built-in package is used here
 class bank{
-	static int accountsBalance=0;
+	static int accountsBalance=0; 
 public static void main(String arg[])
 {
 Scanner input = new Scanner(System.in);
