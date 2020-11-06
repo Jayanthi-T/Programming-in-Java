@@ -5,7 +5,7 @@ first:
 {
 second: 
 {
-third: 
+third:
 {
 System.out.print("Before the break statement");
 
