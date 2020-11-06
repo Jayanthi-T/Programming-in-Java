@@ -3,7 +3,7 @@ int x=10;
  class inner{
   int y=25;
 }
-}
+} 
 public class inner{
 public static void main(String[] args)
 {
