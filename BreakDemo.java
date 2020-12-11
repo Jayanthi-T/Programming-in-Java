@@ -3,7 +3,7 @@ public static void main(String args[]){
 boolean t=true;
 first:
 {
-second:  
+second:   
 { 
 third:
 {
