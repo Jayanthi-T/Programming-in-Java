@@ -21,6 +21,6 @@ System.out.println("This is out of second block");
 }
 
 Output:
-
+ 
 This is out of second block
     
