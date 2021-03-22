@@ -1,6 +1,6 @@
 import java.io.*;
 import java.net.*;
-
+ 
 class clientsame{
 	public static void main(String[] args){
 		try{
